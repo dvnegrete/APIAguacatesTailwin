@@ -1,4 +1,7 @@
 {
+  "name": "API-Aguacates",
+  "author": "Damián Valenzuela",
+  "homepage": "https://dvnegrete.github.io/APIAguacates/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
